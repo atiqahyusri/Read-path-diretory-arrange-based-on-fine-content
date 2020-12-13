@@ -1,0 +1,14 @@
+Write a program/script that takes a directory path as input, 
+read all the files in the directory and print the filename 
+(ignore the file extension e.g. ".txt") in order based on the 
+number stored in the file. You may write the program/script in 
+any programming/scripting language of you choice.
+
+Examples:
+$ python program.py ./testcase1
+output: team
+$ java program ./testcase1
+output: team
+$ program.exe testcase2
+output: friend
+
